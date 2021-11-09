@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="click_recorder">记录仪|点击记录仪|打开记录仪</string>
+    <string name="click_document">文件管理|打开文件管理</string>
+    <string name="click_setting">设置|点击设置|打开设置</string>
+
+    <string name="click_document_normal">打开普通录像|查看普通录像|普通录像</string>
+    <string name="click_document_point">打开打点录像|查看打点录像|打点录像</string>
+    <string name="click_document_urgent">打开紧急录像|查看紧急录像|紧急录像</string>
+    <string name="click_document_shot">打开截图|查看截图|截图|点击截图</string>
+
+    <string name="click_document_edit">编辑|点击编辑</string>
+    <string name="click_select_all">全部选择</string>
+    <string name="click_delete">删除|点击删除</string>
+    <string name="click_document_edit_cancel">取消|点击取消</string>
+
+    <string name="close_single_camera">关闭|关闭页面</string>
+
+    <string name="record_min_1">一分钟|点击一分钟|录制设置一分钟|录制设成一分钟|录制设为一分钟|录制切换成一分钟|录制切换为一分钟|录制设置成一分钟|录制设置为一分钟|录制时长设置一分钟|录制时长设成一分钟|录制时长设为一分钟|录制时长切换成一分钟|录制时长切换为一分钟|录制时长设置成一分钟|录制时长设置为一分钟|录制一分钟</string>
+    <string name="record_min_2">二分钟|点击二分钟|录制设置二分钟|录制设成二分钟|录制设为二分钟|录制切换成二分钟|录制切换为二分钟|录制设置成二分钟|录制设置为二分钟|录制时长设置二分钟|录制时长设成二分钟|录制时长设为二分钟|录制时长切换成二分钟|录制时长切换为二分钟|录制时长设置成二分钟|录制时长设置为二分钟|录制二分钟</string>
+    <string name="record_min_5">五分钟|点击五分钟|录制设置五分钟|录制设成五分钟|录制设为五分钟|录制切换成五分钟|录制切换为五分钟|录制设置成五分钟|录制设置为五分钟|录制时长设置五分钟|录制时长设成五分钟|录制时长设为五分钟|录制时长切换成五分钟|录制时长切换为五分钟|录制时长设置成五分钟|录制时长设置为五分钟|录制五分钟</string>
+
+    <string name="click_water_mark_on">照片水印|开启照片水印|照片水印开启|打开照片水印|照片水印打开</string>
+    <string name="click_water_mark_off">照片水印|照片水印关掉|照片水印关闭|关掉照片水印|关闭照片水印</string>
+
+    <string name="open_front_camera">前视角|点击前视角|前边|点击前边|前方|点击前方|前面|点击前面|查看前视角|切成前视角|打开前视角|切换前视角</string>
+    <string name="open_rear_camera">后视角|点击后视角|后边|点击后边|后方|点击后方|后面|点击后面|查看后视角|切成后视角|打开后视角|切换后视角</string>
+    <string name="open_left_camera">左视角|点击左视角|左边|点击左边|左侧|点击左侧|左侧视角|查看左侧视角|切成左侧视角|打开左侧视角|切换左侧视角|查看左视角|切成左视角|打开左视角|切换左视角</string>
+    <string name="open_right_camera">右视角|点击右视角|右边|点击右边|右侧|点击右侧|右侧视角|查看右侧视角|切成右侧视角|打开右侧视角|切换右侧视角|查看右视角|切成右视角|打开右视角|切换右视角</string>
+
+    <string name="click_menu_record">录像|点击录像</string>
+    <string name="click_menu_mute">静音|点击静音</string>
+    <string name="click_menu_take_photo">拍照|点击拍照</string>
+    <string name="click_menu_point">打点|点击打点</string>
+    <string name="click_known">知道了|点击知道了</string>
+
+    <string name="click_way">展开全部维度|向下展开维度|维度展开|展开维度|维度下拉箭头|点击维度下拉箭头|下拉维度筛选|维度下拉|维度下拉箭头|点击维度下拉箭头</string>
+    <string name="sort_by_place">按地点|点击按地点|按地点分类|按地点排列|按地点排序|按地点筛选|地点维度</string>
+    <string name="sort_by_time">按时间|点击按时间|按时间分类|按时间排列|按时间排序|按时间筛选|时间维度</string>
+
+    <string name="click_eyes">按视角|点击按视角|按视角分类|按视角排列|按视角排序|按视角筛选|视角|点击视角</string>
+    <string name="filter_by_all">全部视角</string>
+    <string name="filter_by_front">前视角|点击前视角|选择前视角|按前视角筛选|筛选前视角|切换前视角</string>
+    <string name="filter_by_rear">后视角|点击后视角|选择后视角|按后视角筛选|筛选后视角|切换后视角</string>
+    <string name="filter_by_left">左视角|点击左视角|选择左视角|按左视角筛选|筛选左视角|切换左视角</string>
+    <string name="filter_by_right">右视角|点击右视角|选择右视角|按右视角筛选|筛选右视角|切换右视角</string>
+
+    <string name="click_date_filer">按日期筛选|选择日期|筛选日志|日期筛选</string>
+    <string name="click_to_prev">向前|点击向前|向前翻页</string>
+    <string name="click_to_next">向后|点击向后|向后翻页</string>
+</resources>

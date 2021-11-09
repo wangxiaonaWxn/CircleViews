@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">记录仪</string>
+    <string name="dvr_menu_device">记录仪</string>
+    <string name="cancel">取消</string>
+    <string name="retry">重试</string>
+    <string name="done">完成</string>
+    <string name="success_toast">采集成功</string>
+    <string name="fail_toast">网络异常</string>
+    <string name="recognizing">正在注册中...</string>
+    <string name="recognizing_toast">请靠紧靠背，正视前方</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="progress_bar_bg_color">#80FFFFFF</color>
+    <color name="progress_bar_progress_color">#00FFF1</color>
+    <color name="progress_bar_fail_color">#EB993E</color>
+    <color name="progress_bar_success_color">#00FFF1</color>
+</resources>

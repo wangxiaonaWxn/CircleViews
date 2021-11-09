@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sp20">20sp</dimen>
+    <dimen name="sp24">24sp</dimen>
+    <dimen name="sp27">27sp</dimen>
+    <dimen name="sp32">32sp</dimen>
+    <dimen name="sp34">34sp</dimen>
+    <dimen name="sp36">36sp</dimen>
+    <dimen name="sp48">48sp</dimen>
+    <dimen name="recognition_fail_text_size">56sp</dimen>
+    <dimen name="recognition_success_text_size">56sp</dimen>
+    <dimen name="recognizing_text_size">36sp</dimen>
+    <dimen name="recognizing_toast_text_size">48sp</dimen>
+</resources>
